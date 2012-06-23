@@ -126,7 +126,7 @@ public class MainActivity extends Activity {
 			touchTurnUp = yd / -50f;
                         
                         
-                        sun.x = 0;
+                        
                         
 			return true;
 		}
